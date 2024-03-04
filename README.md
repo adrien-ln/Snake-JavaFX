@@ -18,10 +18,10 @@ This program follows the MVC (Model-View-Controller) design pattern. JavaFX tool
 # Installation
 - Clone the repository:
 ```
-git clone https://gaufre.informatique.univ-paris-diderot.fr/leninive/projet-cpoo.git
+git clone https://github.com/adrien-ln/Snake-JavaFX.git
 ```
 ```
-git clone git@gaufre.informatique.univ-paris-diderot.fr:leninive/projet-cpoo.git
+git clone git@github.com:adrien-ln/Snake-JavaFX.git
 ```
 
 - Navigate to the project directory: `cd Snake-JavaFX`
