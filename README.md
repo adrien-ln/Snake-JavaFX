@@ -18,13 +18,13 @@ This program follows the MVC (Model-View-Controller) design pattern. JavaFX tool
 # Installation
 - Clone the repository:
 ```
-git clone https://github.com/adrien-ln/Snake-JavaFX.git
+git clone https://github.com/adrien-ln/snake-javafx.git
 ```
 ```
-git clone git@github.com:adrien-ln/Snake-JavaFX.git
+git clone git@github.com:adrien-ln/snake-javafx.git
 ```
 
-- Navigate to the project directory: `cd Snake-JavaFX`
+- Navigate to the project directory: `cd snake-javafx`
 
 - Execute gradle wrapper:
 ```
